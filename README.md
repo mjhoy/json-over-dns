@@ -19,3 +19,7 @@ After adding a TXT record with this value:
   "val": "foo"
 }
 ```
+
+## Limitations
+
+Digital Ocean doesn't allow single TXT records longer than 512 characters. Can we get around this?
